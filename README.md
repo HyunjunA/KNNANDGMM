@@ -10,3 +10,5 @@ I implemented K-means clustering and Gaussian Mixture Model with Matlab.
 
 2 [Mixture Models and EM](http://www.cse.psu.edu/~rtc12/CSE586Spring2010/papers/prmlMixturesEM.pdf)
 
+## How to run
+1 Run main.m
